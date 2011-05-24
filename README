@@ -1,0 +1,6 @@
+1) Just copy those three files in place of the ones in $PLAN9/src/cmd/acme/mail/.
+
+2) cd $PLAN9/src/cmd/acme/mail/; mk install
+
+3) in acme, 9 Mail -t[s]
+
